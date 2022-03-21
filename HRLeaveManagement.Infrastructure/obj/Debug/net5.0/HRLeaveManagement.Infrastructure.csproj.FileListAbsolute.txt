@@ -1,0 +1,17 @@
+D:\coding\CSharp\Udemy\ASP.NET Core - SOLID and Clean Architecture\HRLeaveManagement\HRLeaveManagement.Infrastructure\bin\Debug\net5.0\HRLeaveManagement.Infrastructure.deps.json
+D:\coding\CSharp\Udemy\ASP.NET Core - SOLID and Clean Architecture\HRLeaveManagement\HRLeaveManagement.Infrastructure\bin\Debug\net5.0\HRLeaveManagement.Infrastructure.dll
+D:\coding\CSharp\Udemy\ASP.NET Core - SOLID and Clean Architecture\HRLeaveManagement\HRLeaveManagement.Infrastructure\bin\Debug\net5.0\ref\HRLeaveManagement.Infrastructure.dll
+D:\coding\CSharp\Udemy\ASP.NET Core - SOLID and Clean Architecture\HRLeaveManagement\HRLeaveManagement.Infrastructure\bin\Debug\net5.0\HRLeaveManagement.Infrastructure.pdb
+D:\coding\CSharp\Udemy\ASP.NET Core - SOLID and Clean Architecture\HRLeaveManagement\HRLeaveManagement.Infrastructure\bin\Debug\net5.0\HRLeaveManagement.Application.dll
+D:\coding\CSharp\Udemy\ASP.NET Core - SOLID and Clean Architecture\HRLeaveManagement\HRLeaveManagement.Infrastructure\bin\Debug\net5.0\HRLeaveManagement.Domain.dll
+D:\coding\CSharp\Udemy\ASP.NET Core - SOLID and Clean Architecture\HRLeaveManagement\HRLeaveManagement.Infrastructure\bin\Debug\net5.0\HRLeaveManagement.Application.pdb
+D:\coding\CSharp\Udemy\ASP.NET Core - SOLID and Clean Architecture\HRLeaveManagement\HRLeaveManagement.Infrastructure\bin\Debug\net5.0\HRLeaveManagement.Domain.pdb
+D:\coding\CSharp\Udemy\ASP.NET Core - SOLID and Clean Architecture\HRLeaveManagement\HRLeaveManagement.Infrastructure\obj\Debug\net5.0\HRLeaveManagement.Infrastructure.csproj.AssemblyReference.cache
+D:\coding\CSharp\Udemy\ASP.NET Core - SOLID and Clean Architecture\HRLeaveManagement\HRLeaveManagement.Infrastructure\obj\Debug\net5.0\HRLeaveManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding\CSharp\Udemy\ASP.NET Core - SOLID and Clean Architecture\HRLeaveManagement\HRLeaveManagement.Infrastructure\obj\Debug\net5.0\HRLeaveManagement.Infrastructure.AssemblyInfoInputs.cache
+D:\coding\CSharp\Udemy\ASP.NET Core - SOLID and Clean Architecture\HRLeaveManagement\HRLeaveManagement.Infrastructure\obj\Debug\net5.0\HRLeaveManagement.Infrastructure.AssemblyInfo.cs
+D:\coding\CSharp\Udemy\ASP.NET Core - SOLID and Clean Architecture\HRLeaveManagement\HRLeaveManagement.Infrastructure\obj\Debug\net5.0\HRLeaveManagement.Infrastructure.csproj.CoreCompileInputs.cache
+D:\coding\CSharp\Udemy\ASP.NET Core - SOLID and Clean Architecture\HRLeaveManagement\HRLeaveManagement.Infrastructure\obj\Debug\net5.0\HRLeaveManagement.Infrastructure.csproj.CopyComplete
+D:\coding\CSharp\Udemy\ASP.NET Core - SOLID and Clean Architecture\HRLeaveManagement\HRLeaveManagement.Infrastructure\obj\Debug\net5.0\HRLeaveManagement.Infrastructure.dll
+D:\coding\CSharp\Udemy\ASP.NET Core - SOLID and Clean Architecture\HRLeaveManagement\HRLeaveManagement.Infrastructure\obj\Debug\net5.0\ref\HRLeaveManagement.Infrastructure.dll
+D:\coding\CSharp\Udemy\ASP.NET Core - SOLID and Clean Architecture\HRLeaveManagement\HRLeaveManagement.Infrastructure\obj\Debug\net5.0\HRLeaveManagement.Infrastructure.pdb
